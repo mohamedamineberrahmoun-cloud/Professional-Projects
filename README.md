@@ -2,7 +2,7 @@
 
 ### 📈 Financial Engineering · Quantitative Finance · Risk Management
 
-Hi everyone !,
+Hi everyone !
 
 Welcome to my project portfolio.
 
