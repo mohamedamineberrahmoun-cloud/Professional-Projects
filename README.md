@@ -1,77 +1,94 @@
 # Mohamed Amine BERRAHMOUN
 
-Financial Engineering & Modelling Student
+### 📈 Financial Engineering · Quantitative Finance · Risk Management
+
+Hi everyone !,
+
+Welcome to my project portfolio.
+
+I am currently pursuing a Master's degree in Financial Engineering and Modelling at Sorbonne Paris Nord University. This repository brings together academic and personal projects related to financial markets, quantitative analysis, portfolio management and risk management.
+
+The purpose of this portfolio is to present how I use financial theory, statistical analysis and programming to study financial data, model market dynamics and address practical finance problems.
 
 ---
 
-## About Me
+## 📂 Portfolio Overview
 
-Hi everyone,
+The projects included in this repository cover several areas of finance and quantitative analysis:
 
-My name is Mohamed Amine, currently pursuing a Master's degree in Financial Engineering and Modelling at Sorbonne Paris Nord University.
-My interests focus on quantitative finance, financial modelling, risk management, econometrics and portfolio management.
+### Portfolio Analysis and Management
 
-This repository gathers my academic and personal projects in financial engineering, asset management, market risk modelling, and quantitative analysis and modelling, which represent my primary academic and professional interests.
+Projects involving financial asset analysis, portfolio construction, diversification, performance evaluation and portfolio optimisation.
 
----
+### Financial Econometrics and Time Series
 
-## Technical Skills
+Applications involving economic and financial time series, stationarity analysis, model estimation, diagnostic testing and forecasting.
 
-### Programming
+### Market Risk and Volatility
 
-- Python
-- R
-- VBA
-- SQL (basic)
+Projects focused on financial return distributions, volatility modelling, risk measurement and the validation of risk estimates.
 
-### Quantitative Methods
+### Fixed Income and Interest Rates
 
-- Time Series Analysis
-- Monte Carlo Simulation
-- Portfolio Optimisation
-- Backtesting
-- Volatility Modelling
-- Risk Modelling
+Applications related to yield curves, discount factors, forward rates, interest-rate sensitivity and fixed-income instruments.
 
-### Finance
+### Financial Derivatives
 
-- Asset Pricing
-- Portfolio Management
-- Market Risk
-- Interest Rate Risk
-- Fixed Income
-- Derivatives
+Projects involving the valuation and risk analysis of financial contracts, including interest-rate and weather-related derivatives.
 
 ---
 
-## Featured Projects
+## 🧰 Technologies and Tools
 
-### Portfolio Optimisation
+The portfolio mainly showcases work completed with:
 
-Implementation of Markowitz, CAPM and behavioural finance approaches for portfolio construction and performance analysis.
+* **Python:** Pandas, NumPy, Matplotlib, SciPy and Statsmodels
+* **R:** time-series analysis, econometric modelling and volatility modelling
+* **Excel and VBA:** financial calculations, data analysis and automation
+* **SQL:** basic data querying
 
-### Market Risk & Volatility Modelling
-
-ARIMA and TGARCH models for volatility forecasting, Value at Risk (VaR) and Expected Shortfall estimation.
-
-### Interest Rate Swap Valuation
-
-Development of a Python tool for swap pricing, yield curve construction and interest rate risk analysis.
+Depending on the project, the work may include data preparation, statistical analysis, numerical modelling, visualisation, optimisation, simulation, forecasting or backtesting.
 
 ---
 
-## Education
+## 🔎 How to Explore the Portfolio
 
-MSc Financial Engineering & Modelling  
+Each project is organised in its own folder and may contain:
+
+* A dedicated README explaining the objective and methodology
+* Source code or notebooks
+* Data or information about the data source
+* Charts, tables and model outputs
+* A summary of the main findings
+* A discussion of assumptions and limitations
+
+You can begin with the project that best matches your area of interest and consult its README for more detailed information.
+
+---
+
+## 🎓 Academic Background
+
+**Master's in Financial Engineering and Modelling**
 Sorbonne Paris Nord University
 
-Incoming MSc Risk Engineering, Finance & Insurance (IRFA)  
+**Incoming Master's in Risk Engineering, Finance and Insurance**
 Paris 1 Panthéon-Sorbonne
 
 ---
 
-## Contact
+## 📫 Contact
 
-📧 mohamedamineberrahmoun@gmail.com
+* **Email:** [mohamedamineberrahmoun@gmail.com](mailto:mohamedamineberrahmoun@gmail.com)
+* **LinkedIn:** [linkedin.com/in/maberra](https://linkedin.com/in/maberra)
 
-🔗 LinkedIn: linkedin.com/in/maberra
+---
+
+> This portfolio is continuously updated as I develop new projects and deepen my knowledge of financial modelling, quantitative analysis and risk management.
+
+
+## ⚠️ Disclaimer
+
+The projects presented in this portfolio are intended for educational and academic purposes only. They do not constitute financial, investment or trading advice. The models, results and simulations are based on specific assumptions and historical data and should not be interpreted as guarantees of future performance.
+
+If you notice any error, inconsistency or area for improvement, please feel free to open an issue or contact me. Constructive feedback is always welcome.
+
