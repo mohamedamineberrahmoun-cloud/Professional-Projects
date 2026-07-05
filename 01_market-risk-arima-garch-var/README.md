@@ -1,4 +1,4 @@
-# 📊 Market Risk, Volatility and Market Exposure Modelling: ARIMA-GARCH, VaR, ES, VIX and CAPM Analysis
+# 📊 Market Risk and Volatility Modelling of Lockheed Martin (LMT)
 
 ## 🧭 Project Overview
 
