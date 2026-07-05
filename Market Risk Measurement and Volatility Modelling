@@ -1,1 +1,82 @@
+# Market Risk and Volatility Modelling: ARIMA-GARCH and VaR Backtesting
+
+## Project Overview
+
+This project applies financial econometrics techniques to model the return dynamics and volatility of a financial asset. The objective is to estimate time-series models, analyse volatility clustering, forecast conditional volatility and evaluate market risk using Value-at-Risk backtesting methods.
+
+The project combines ARIMA modelling for return dynamics with GARCH-type volatility models and risk validation tools commonly used in market risk analysis.
+
+## Objectives
+
+* Analyse the statistical properties of financial returns.
+* Test for stationarity and volatility clustering.
+* Estimate ARIMA models for the conditional mean.
+* Estimate GARCH-type models for conditional volatility.
+* Compute Value-at-Risk measures.
+* Backtest VaR estimates using statistical validation tests.
+* Discuss the strengths and limitations of the modelling approach.
+
+## Methodology
+
+The project follows the following steps:
+
+1. Data collection and preparation.
+2. Return computation and descriptive statistics.
+3. Stationarity and diagnostic testing.
+4. ARIMA model estimation.
+5. GARCH volatility modelling.
+6. Value-at-Risk estimation.
+7. VaR backtesting and interpretation of results.
+
+## Tools and Libraries
+
+The analysis is conducted in R using packages for financial time series analysis, econometric modelling and risk measurement.
+
+Main tools include:
+
+* R
+* time-series analysis packages
+* GARCH modelling packages
+* statistical testing tools
+* data visualisation packages
+
+## Key Concepts
+
+* Financial returns
+* Stationarity
+* ARIMA models
+* Volatility clustering
+* ARCH effects
+* GARCH models
+* Value-at-Risk
+* Backtesting
+* Market risk
+
+## Repository Structure
+
+```text
+01_market-risk-arima-garch-var/
+│
+├── README.md
+├── code/
+│   └── arima_garch_var_analysis.R
+│
+├── data/
+│   └── README.md
+│
+├── outputs/
+│   ├── figures/
+│   └── tables/
+│
+└── report/
+    └── project_slides.pdf
+```
+
+## Results
+
+The project highlights how volatility models can improve the understanding of market risk by capturing time-varying volatility. The VaR backtesting section allows the model’s risk estimates to be evaluated against realised market movements.
+
+## Limitations
+
+The results depend on the selected asset, historical data period, model specification and distributional assumptions. The analysis is intended for educational and academic purposes only and does not constitute financial or investment advice.
 
