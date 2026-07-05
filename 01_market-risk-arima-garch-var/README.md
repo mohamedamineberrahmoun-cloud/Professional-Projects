@@ -110,7 +110,7 @@ Although the analysis could also be implemented in Python, R is particularly wel
 
 ## ✅ Results
 
-The project highlights how volatility models can improve the understanding of market risk by capturing time-varying volatility. The VaR and ES backtesting sections allow the model’s risk estimates to be evaluated against realised market movements.
+The project highlights how volatility models can improve the understanding of market risk by capturing time-varying volatility. By modelling conditional volatility, the analysis translates abstract volatility dynamics into more concrete and interpretable risk measures, such as Value-at-Risk and Expected Shortfall, which are more directly actionable for risk monitoring, portfolio risk assessment, and decision-making under uncertainty.
 
 The VIX regression analysis further enriches the study by examining how market-implied volatility and volatility shocks are related to the behaviour of the selected asset. The comparison between the VIX, VaR, Expected Shortfall and conditional volatility provides additional insight into the interaction between forward-looking market stress indicators and model-based risk estimates.
 
