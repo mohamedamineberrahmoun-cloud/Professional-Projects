@@ -95,56 +95,35 @@ This is particularly useful when using asymmetric volatility models such as GJR-
 
 The News Impact Curve provides a graphical interpretation of volatility asymmetry and helps connect the statistical model with financial intuition.
 
-## 🛠️ Tools and Libraries
+## 🛠️ Tools and Key Concepts
 
-The analysis is conducted in R using packages for financial data collection, time-series modelling, econometric testing, volatility modelling, regression analysis and visualisation.
+The analysis is conducted in R, using specialised packages for financial data collection, time-series modelling, econometric testing, volatility modelling, regression analysis and visualisation.
 
-Main tools include:
+Main packages include:
 
-- R
-- quantmod
-- forecast
-- tseries
-- FinTS
-- rugarch
-- xts
-- zoo
-- ggplot2
-- lmtest
-- sandwich
-- moments
-
-Although the analysis could also be implemented in Python, R is particularly well suited for statistical modelling and financial econometrics due to the richness and ergonomics of its specialised packages.
+- `quantmod`, `xts`, `zoo`
+- `forecast`, `tseries`, `FinTS`
+- `rugarch`
+- `ggplot2`
+- `lmtest`, `sandwich`, `moments`
 
 ## 🧠 Key Concepts
 
-- Financial returns
-- Stylised facts of financial time series
-- Stationarity
-- Autocorrelation
-- ARCH effects
-- ARIMA models
-- Moving Average models
-- GARCH models
-- GJR-GARCH
-- EGARCH
-- TGARCH
+- Financial returns and stylised facts
+- Stationarity, autocorrelation and ARCH effects
+- ARIMA / MA models
+- GARCH, GJR-GARCH, EGARCH and TGARCH models
 - Conditional volatility
-- Value-at-Risk
-- Expected Shortfall
-- Risk backtesting
-- Kupiec test
-- Christoffersen test
+- Value-at-Risk and Expected Shortfall
+- VaR and ES backtesting
+- Kupiec and Christoffersen tests
 - Acerbi-Szekely ES backtesting
-- VIX index
-- Market-implied volatility
-- Volatility shocks
-- CAPM
-- Alpha
-- Beta
-- Rolling regression
+- VIX and market-implied volatility
+- CAPM, alpha, beta and rolling regressions
 - News Impact Curve
 - Market risk
+
+
 
 ## 📁 Repository Structure
 
