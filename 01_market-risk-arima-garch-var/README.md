@@ -115,7 +115,7 @@ Main packages include:
     └── project_slides.pdf
 ```
 
-## ✅ Results
+## ✅ Main Results
 
 The analysis shows that LMT returns exhibit key stylised facts of financial time series, including non-normality, leptokurtosis and volatility clustering.
 
