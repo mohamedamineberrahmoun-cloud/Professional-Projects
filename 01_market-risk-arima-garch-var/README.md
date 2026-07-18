@@ -97,20 +97,14 @@ Main packages include:
 
 ## 📁 Repository Structure
 
+this repositery will be kept simple since the manipulations are quite usual in  but in the near future a more complete approach to explaining the statistical test regarding the validation of the expected shortfall and the Var exptmation will be added to this repository to provide somme clarity in a non pure mathematical way to suite various reading profiles
+
 ```text
 01_market-risk-volatility-lmt/
 │
 ├── README.md
 ├── code/
 │   └── market_risk_lmt_analysis.R
-│
-├── data/
-│   └── README.md
-│
-├── outputs/
-│   ├── figures/
-│   └── tables/
-│
 └── report/
     └── project_slides.pdf
 ```
