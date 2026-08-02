@@ -8,6 +8,8 @@ The objective is to model financial returns, estimate conditional volatility, qu
 
 The analysis is implemented in R and focuses on both statistical modelling and financial interpretation. Some commands, particularly those used for visualisation, have been deliberately simplified to improve code readability and make the analytical workflow easier to follow.
 
+At first, the Beamer presentation and the R code will be available in French. A full English version will be added within 5 to 10 days.
+
 ## 🎯 Objectives
 
 - Analyse the statistical properties and stylised facts of LMT financial returns.
@@ -78,7 +80,6 @@ Main packages include:
 - `quantmod`, `xts`, `zoo`
 - `forecast`, `tseries`, `FinTS`
 - `rugarch`
-- `ggplot2`
 - `lmtest`, `sandwich`, `moments`
 
 ## 🧠 Key Concepts
