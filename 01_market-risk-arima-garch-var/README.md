@@ -2,11 +2,11 @@
 
 ## 🧭 Project Overview
 
-This project applies financial econometrics techniques to analyse the return dynamics, volatility behaviour and market risk profile of Lockheed Martin Corporation (LMT).
+This project applies financial econometrics techniques to analyse the return dynamics, volatility behaviour, and market risk profile of Lockheed Martin Corporation (LMT).
 
-The objective is to model financial returns, estimate conditional volatility, quantify downside risk, and evaluate risk measures using statistical backtesting methods. The project combines ARIMA/MA modelling, GARCH-type volatility models, Value-at-Risk (VaR), Expected Shortfall (ES), VIX-based analysis, CAPM regressions and graphical diagnostics commonly used in market risk and financial econometrics.
+The objective is to model financial returns, estimate conditional volatility, quantify downside risk, and evaluate risk measures using statistical backtesting methods. The project combines ARMA modelling, GARCH-type volatility models, Value-at-Risk (VaR), Expected Shortfall (ES), VIX-based analysis, CAPM regressions, and graphical diagnostics commonly used in market risk and financial econometrics.
 
-The analysis is implemented in R and focuses on both statistical modelling and financial interpretation.
+The analysis is implemented in R and focuses on both statistical modelling and financial interpretation. Some commands, particularly those used for visualisation, have been deliberately simplified to improve code readability and make the analytical workflow easier to follow.
 
 ## 🎯 Objectives
 
@@ -27,16 +27,17 @@ The project follows a complete financial econometrics pipeline:
 
 1. Data collection and log-return computation.
 2. Descriptive statistics and stylised facts analysis.
-3. Stationarity, normality and ARCH-effect testing.
-4. ARIMA/MA modelling of the conditional mean.
+3. Stationarity, normality, and ARCH-effect testing.
+4. ARMA modelling of the conditional mean.
 5. Residual diagnostics after mean modelling.
 6. Estimation and comparison of GARCH-type volatility models.
-7. Dynamic VaR and Expected Shortfall estimation.
-8. VaR and ES backtesting.
-9. VIX regression and comparison with model-based risk measures.
-10. Static and rolling CAPM analysis.
-11. News Impact Curve analysis.
-12. Graphical diagnostics and financial interpretation.
+7. Conditional volatility analysis and volatility forecasting.
+8. News Impact Curve analysis.
+9. Dynamic Value-at-Risk and Expected Shortfall estimation.
+10. VaR and ES backtesting.
+11. Static and rolling CAPM analysis.
+12. VIX regression and comparison with model-based volatility.
+13. Graphical diagnostics and financial interpretation.
 
 ## 📈 Volatility, VaR and Expected Shortfall Analysis
 
@@ -103,10 +104,8 @@ this repositery will be kept simple since the manipulations are quite usual in  
 01_market-risk-volatility-lmt/
 │
 ├── README.md
-├── code/
-│   └── market_risk_lmt_analysis.R
-└── report/
-    └── project_slides.pdf
+├── market_risk_lmt_analysis.R
+└── project_slides.pdf
 ```
 
 ## ✅ Main Results
