@@ -8,7 +8,7 @@ The objective is to model financial returns, estimate conditional volatility, qu
 
 The analysis is implemented in R and focuses on both statistical modelling and financial interpretation. Some sections of the code, particularly those related to visualisation, have been deliberately simplified to improve readability and make the analytical workflow easier to follow.
 
-Initially, the Beamer presentation and the R code will be available in French. Complete English versions will be added within 5 to 10 days.
+> This project will continue to evolve as I deepen my knowledge, with new analyses, improvements and corrections added over time
 
 ## 🎯 Objectives
 
