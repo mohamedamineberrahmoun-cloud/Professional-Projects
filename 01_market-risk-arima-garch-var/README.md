@@ -40,12 +40,6 @@ The project follows a complete financial econometrics pipeline:
 12. VIX regression and comparison with model-based conditional volatility.
 13. Graphical diagnostics and financial interpretation.
 
-## ⚡ News Impact Curve
-
-The project includes a News Impact Curve to analyse how positive and negative shocks affect conditional volatility.
-
-This analysis is particularly useful for interpreting asymmetric volatility models such as GJR-GARCH, EGARCH and TGARCH. The objective is to assess whether negative shocks have a stronger impact on volatility than positive shocks of a comparable magnitude.    
-
 ## 📈 Volatility, VaR and Expected Shortfall Analysis
 
 The core of the project is based on modelling the time-varying volatility of LMT returns. After filtering the conditional mean, several GARCH-type specifications are estimated and compared using information criteria and residual diagnostics.
@@ -53,6 +47,12 @@ The core of the project is based on modelling the time-varying volatility of LMT
 The selected volatility model is used to compute dynamic VaR and Expected Shortfall estimates at the 95% and 99% confidence levels. By modelling conditional volatility, the analysis translates volatility dynamics into more concrete and interpretable risk measures, providing a clearer assessment of potential losses under adverse market conditions.
 
 VaR is evaluated using the Kupiec and Christoffersen tests, while Expected Shortfall is assessed using the McNeil–Frey backtesting procedure.
+
+## ⚡ News Impact Curve
+
+The project includes a News Impact Curve to analyse how positive and negative shocks affect conditional volatility.
+
+This analysis is particularly useful for interpreting asymmetric volatility models such as GJR-GARCH, EGARCH and TGARCH. The objective is to assess whether negative shocks have a stronger impact on volatility than positive shocks of a comparable magnitude.    
 
 ## 📊 CAPM and Market Exposure Analysis
 
